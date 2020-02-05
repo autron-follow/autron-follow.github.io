@@ -32,6 +32,6 @@ layout: home
 
 ## 오트론 공채 13기의 잠들기 전 행동 분석  
 
-<div>
-  ./logo.png
-</div>
+![logo](./logo.png)  
+
+![1](./1.PNG)
