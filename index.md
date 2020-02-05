@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
 
-You can use the [editor on GitHub](https://github.com/autron-follow/autron-follow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 타자왕이 될꺼야!  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+이순재*(#뉴비 #게이머 #마음만은 #초고수)*씨는  
+올해 84세가 되었지만 손자와 게임을 하기 위해 컴퓨터를 배우고 있다.  
 
-### Markdown
+하지만 '요즘 것들'의 채팅 속도를 따라잡기가 어렵다. 타자 연습 프로그램으로 사용해보았지만, 실력이 느는 느낌이 안든다.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+그런데!!!  
 
-```markdown
-Syntax highlighted code block
+한달 뒤, 이순재씨는 현란한 손놀림으로 타자를 칠 수 있게 되었다!  
+무슨 일이 벌어진 것일까?  
 
-# Header 1
-## Header 2
-### Header 3
+## 이순재 할아버지가 이용한 것은!?  
 
-- Bulleted
-- List
+안녕하세요, **'전자석을 이용한 타자 연습기'**를 개발한 경희대학교 전자공학과 **Khu Key board**입니다.  
 
-1. Numbered
-2. List
+저희는 키보드와 웨어러블 장갑의 전자석을 달아, 전자석 사이의 인력을 사용자가 인지하며 키보드 타이핑을 할 수 있는 타자 연습기를 설계, 개발하였습니다.  
 
-**Bold** and _Italic_ and `Code` text
+그럼 저희 프로젝트에 대해 자세히 소개해보도록 하겠습니다.
+  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/autron-follow/autron-follow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
