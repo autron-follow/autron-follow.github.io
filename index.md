@@ -61,7 +61,7 @@ layout: home
 **팔로우**는 일반적인 자바라와 달리, 사용자의 움직임을 따라 스마트폰 스크린의 방향을 바로잡아주는 기기입니다.  
 
 
-**(영상)**
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ktvjPhwD2k4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 프로토타입의 팔로우는 *제스쳐센서*를 사용하여 개발되었지만, 카메라를 통한 동체추적을 사용한다면 정확한 제어가 가능할 것입니다.  
 
